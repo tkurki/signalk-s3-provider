@@ -1,0 +1,11 @@
+{
+  "name": "signalk-s3-provider",
+  "version": "0.0.1",
+  "description": "S3 provider for Signal K Node server",
+  "main": "s3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "teppo.kurki@iki.fi",
+  "license": "Apache-2.0"
+}
